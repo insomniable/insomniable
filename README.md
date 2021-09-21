@@ -1,6 +1,13 @@
+Welcome
+=============
+About Me:
+------------------
+
 - 👋 Hi, I’m Andy!
 - 👀 I’m interested in electronics, computers and space!
 - 🌱 I’m currently learning C programming on Arduino
+
+
 <!--- 📫 I'm on twitter [here](https://twitter.com/andyleemitchell). --->
 
 <!---
